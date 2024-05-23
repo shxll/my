@@ -12,6 +12,36 @@ http://rdns.tv:80/rogcpereira/tsn3ih5m/11691
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV SD
 http://rdns.tv:80/rogcpereira/tsn3ih5m/28857
 
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/WKH",TCM HD
+http://pfsv.io:80/leticia/131278/50884.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/ARF",TCM SD
+http://pfsv.io:80/leticia/131278/339.ts
+
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AYV",Telecine Action HD
+http://pfsv.io:80/leticia/131278/568.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZB",Telecine Action SD
+http://pfsv.io:80/leticia/131278/574.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AYW",Telecine Cult HD
+http://pfsv.io:80/leticia/131278/569.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZC",Telecine Cult SD
+http://pfsv.io:80/leticia/131278/575.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AYX",Telecine Fun HD
+http://pfsv.io:80/leticia/131278/570.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZD",Telecine Fun SD
+http://pfsv.io:80/leticia/131278/576.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AYZ",Telecine Pipoca HD
+http://pfsv.io:80/leticia/131278/572.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZF",Telecine Pipoca SD
+http://pfsv.io:80/leticia/131278/578.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZA",Telecine Premium HD
+http://pfsv.io:80/leticia/131278/573.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZG",Telecine Premium SD
+http://pfsv.io:80/leticia/131278/579.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AYY",Telecine Touch HD
+http://pfsv.io:80/leticia/131278/571.ts
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/AZE",Telecine Touch SD
+http://pfsv.io:80/leticia/131278/577.ts
+
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature SD" tvg-logo="https://liebeurl.me/logos/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
 http://rdns.tv:80/rogcpereira/tsn3ih5m/4097
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 HD
