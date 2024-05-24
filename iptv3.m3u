@@ -1,304 +1,217 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3697
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/5991
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3699
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/5992
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/11691
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/28857
 
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/WKH",TCM HD
-http://pfsv.io:80/leticia/131278/50884.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/ARF",TCM SD
-http://pfsv.io:80/leticia/131278/339.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/547
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/546
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/552
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/551
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/557
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/556
 
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K FHDR
-http://rdns.tv:80/Miranda12/24998494803/116013
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
-http://rdns.tv:80/Miranda12/24998494803/3895
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71106
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
-http://rdns.tv:80/Miranda12/24998494803/3896
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD [LEG]" tvg-logo="http://dnsl.me:80/images/393b991f14a83553fbfa27e933b59096.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71155
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action SD" tvg-logo="https://liebeurl.me/logos/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
-http://rdns.tv:80/Miranda12/24998494803/4076
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
-http://rdns.tv:80/Miranda12/24998494803/3897
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71107
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
-http://rdns.tv:80/Miranda12/24998494803/3898
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://dnsl.me:80/images/e8a35dbcfe71089ca91b414133db4158.png" group-title="Canais | Legendados",Telecine Cult HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71157
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult SD" tvg-logo="https://liebeurl.me/logos/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
-http://rdns.tv:80/Miranda12/24998494803/4078
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://rdns.tv:80/Miranda12/24998494803/3899
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71108
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
-http://rdns.tv:80/Miranda12/24998494803/3900
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://dnsl.me:80/images/b564267e625fd78504c971b99da6a27d.png" group-title="Canais | Legendados",Telecine Fun HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71159
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun SD" tvg-logo="https://liebeurl.me/logos/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
-http://rdns.tv:80/Miranda12/24998494803/4080
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K FHDR
-http://rdns.tv:80/Miranda12/24998494803/116014
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://rdns.tv:80/Miranda12/24998494803/3901
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71109
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://rdns.tv:80/Miranda12/24998494803/3902
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://dnsl.me:80/images/0ff6a94a3a4b55dc53d982dd7b8a463b.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71161
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://liebeurl.me/logos/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
-http://rdns.tv:80/Miranda12/24998494803/4082
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K FHDR
-http://rdns.tv:80/Miranda12/24998494803/116015
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://rdns.tv:80/Miranda12/24998494803/3903
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71110
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
-http://rdns.tv:80/Miranda12/24998494803/3904
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://dnsl.me:80/images/e0d44ef7aff7e863b6b363061ec3b81a.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71163
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium SD" tvg-logo="https://liebeurl.me/logos/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
-http://rdns.tv:80/Miranda12/24998494803/4596
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://rdns.tv:80/Miranda12/24998494803/3905
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-http://rdns.tv:80/Miranda12/24998494803/71111
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
-http://rdns.tv:80/Miranda12/24998494803/3906
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://dnsl.me:80/images/130207242ffd1aaff88e3ff0c4191d30.png" group-title="Canais | Legendados",Telecine Touch HD [LEG]
-http://rdns.tv:80/Miranda12/24998494803/71165
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch SD" tvg-logo="https://liebeurl.me/logos/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
-http://rdns.tv:80/Miranda12/24998494803/4578
-
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature SD" tvg-logo="https://liebeurl.me/logos/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4097
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3824
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://liebeurl.me/logos/hbo2.png" group-title="Canais | HBO",HBO 2 SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4087
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO Family HD" tvg-logo="https://liebeurl.me/logos/hbofamily.png" group-title="Canais | HBO",HBO Family HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3826
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family SD" tvg-logo="https://liebeurl.me/logos/hbofamily.png" group-title="Canais | HBO",HBO Family SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4088
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://liebeurl.me/logos/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3830
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://liebeurl.me/logos/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4091
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://liebeurl.me/logos/hboplus.png" group-title="Canais | HBO",HBO Plus HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3832
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus SD" tvg-logo="https://liebeurl.me/logos/hboplus.png" group-title="Canais | HBO",HBO Plus SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4588
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO Pop HD" tvg-logo="https://liebeurl.me/logos/hbopop.png" group-title="Canais | HBO",HBO Pop HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3834
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO Pop SD" tvg-logo="https://liebeurl.me/logos/hbopop.png" group-title="Canais | HBO",HBO Pop SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4095
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://liebeurl.me/logos/hbo.png" group-title="Canais | HBO",HBO SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4584
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/613
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/612
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/618
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/617
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/623
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/622
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/628
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/627
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/633
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/632
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/587
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/586
 
 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3727
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4346
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18764
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO +SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO +SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18766
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18756
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18758
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18760
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18762
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18752
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18754
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18772
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18774
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18780
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18782
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18768
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18770
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18776
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18778
 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3720
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4352
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/700
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/699
 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://liebeurl.me/logos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3721
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://liebeurl.me/logos/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4350
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/592
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/591
 
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://liebeurl.me/logos/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3724
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://lxls.mx:80/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4348
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/690
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/689
 
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="Canais | Filmes e Séries",Space HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3729
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://liebeurl.me/logos/space.png" group-title="Canais | Filmes e Séries",Space SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4344
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/695
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/694
 
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel HD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3712
-#EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel SD" tvg-logo="https://liebeurl.me/logos/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4356
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/705
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/704
 
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3737
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="http://lxls.mx:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Canais | Filmes e Séries",Studio Universal SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4342
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/597
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/596
 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3740
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://www.liebeurl.me/logos/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4340
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3742
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://liebeurl.me/logos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4338
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/711
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/710
 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3720
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://liebeurl.me/logos/fx.png" group-title="Canais | Filmes e Séries",FX SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4352
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/731
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/730
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/736
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/735
 
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://liebeurl.me/logos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4333
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="https://liebeurl.me/logos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4334
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/592
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/591
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/746
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/745
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports HD
 http://rdns.tv:80/rogcpereira/tsn3ih5m/3572
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports SD
 http://rdns.tv:80/rogcpereira/tsn3ih5m/4504
 
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes",Combate HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3670
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://liebeurl.me/logos/combate.png" group-title="Canais | Esportes",Combate SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4506
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/238
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/237
 
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3848
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon SD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4555
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/371
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/370
 
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3853
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4538
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science HD" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4469
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science SD" tvg-logo="https://liebeurl.me/logos/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4470
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4473
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater SD" tvg-logo="https://liebeurl.me/logos/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4474
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC HD" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="Canais | Documentários",Discovery TLC HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4184
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC SD" tvg-logo="https://liebeurl.me/logos/tlc.png" group-title="Canais | Documentários",Discovery TLC SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/25439
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://liebeurl.me/logos/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4120
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://liebeurl.me/logos/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4121
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World HD" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4477
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World SD" tvg-logo="https://liebeurl.me/logos/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4478
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DISCOVERY KIDS HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/DISCOVERYKIDSHD/EXPORTACION_WEB/SS/DISCOVERYKIDSHDWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISCOVERY KIDS HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249208
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY CHANNEL" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/DISNEYHD/EXPORTACION_WEB/SS/DISNEYHDWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISNEY CHANNEL
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249204
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Canais | Latinos",LAT | DISNEY HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249205
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY JR" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIORWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISNEY JR
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249206
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Canais | Latinos",LAT | DISNEY JUNIOR
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249207
 
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3855
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4540
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/356
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/355
 
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3861
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4536
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/351
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/350
 
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3863
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4534
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/472
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/471
 
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/8060
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/28864
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/664
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/663
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E HD
-http://rdns.tv:80/Miranda12/24998494803/350107
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://liebeurl.me/logos/ae.png" group-title="Canais | Variedades",A&E SD
-http://rdns.tv:80/Miranda12/24998494803/4103
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/669
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/668
 
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://rdns.tv:80/Miranda12/24998494803/3705
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://www.liebeurl.me/logos/amc.png" group-title="Canais | Filmes e Séries",AMC SD
-http://rdns.tv:80/Miranda12/24998494803/4364
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2600
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2599
 
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="https://liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
-http://rdns.tv:80/Miranda12/24998494803/4451
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/674
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/673
 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
-http://rdns.tv:80/Miranda12/24998494803/3707
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="Canais | Filmes e Séries",AXN SD
-http://rdns.tv:80/Miranda12/24998494803/4362
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2463
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2462
 
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS HD
-http://rdns.tv:80/Miranda12/24998494803/4106
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://liebeurl.me/logos/bis.png" group-title="Canais | Variedades",BIS SD
-http://rdns.tv:80/Miranda12/24998494803/4107
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/700
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/699
 
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://rdns.tv:80/Miranda12/24998494803/5977
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://www.liebeurl.me/logos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://rdns.tv:80/Miranda12/24998494803/13214
-
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://rdns.tv:80/Miranda12/24998494803/3727
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://www.liebeurl.me/logos/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://rdns.tv:80/Miranda12/24998494803/4346
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Anime[24H]" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Canais | Cine SKY Play",Cine Anime[24H]
-http://rdns.tv:80/Miranda12/24998494803/360981
-#EXTINF:-1 tvg-id="" tvg-name="Cine Ação[24H]" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Canais | Cine SKY Play",Cine Ação[24H]
-http://rdns.tv:80/Miranda12/24998494803/360978
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Drama[24H]
-http://rdns.tv:80/Miranda12/24998494803/360976
-#EXTINF:-1 tvg-id="" tvg-name="Cine Investigação[24H]" tvg-logo="" group-title="Canais | Cine SKY Play",Cine Investigação[24H]
-http://rdns.tv:80/Miranda12/24998494803/360980
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romance[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Romance[24H]
-http://rdns.tv:80/Miranda12/24998494803/360977
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 01
-http://rdns.tv:80/Miranda12/24998494803/64179
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 02
-http://rdns.tv:80/Miranda12/24998494803/64180
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 03
-http://rdns.tv:80/Miranda12/24998494803/64181
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 04
-http://rdns.tv:80/Miranda12/24998494803/64182
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 05
-http://rdns.tv:80/Miranda12/24998494803/64183
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 06
-http://rdns.tv:80/Miranda12/24998494803/352375
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 07
-http://rdns.tv:80/Miranda12/24998494803/352376
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 08
-http://rdns.tv:80/Miranda12/24998494803/352377
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 09
-http://rdns.tv:80/Miranda12/24998494803/352378
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sucessos[24H]" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Canais | Cine SKY Play",Cine Sucessos[24H]
-http://rdns.tv:80/Miranda12/24998494803/360975
-#EXTINF:-1 tvg-id="" tvg-name="Cine Suspense[24H]" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Canais | Cine SKY Play",Cine Suspense[24H]
-http://rdns.tv:80/Miranda12/24998494803/360979
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 HD" tvg-logo="https://liebeurl.me/logos/hbomax.jpg" group-title="Canais | HBO Max",HBO Max 1 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/104189
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 HD" tvg-logo="https://liebeurl.me/logos/hbomax.jpg" group-title="Canais | HBO Max",HBO Max 2 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/104190
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 HD" tvg-logo="https://liebeurl.me/logos/hbomax.jpg" group-title="Canais | HBO Max",HBO Max 3 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/104191
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 HD" tvg-logo="" group-title="Canais | HBO Max",HBO Max 4 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/104192
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="https://liebeurl.me/logos/hbomax.jpg" group-title="Canais | HBO Max",HBO Max 5 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/116086
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="https://liebeurl.me/logos/hbomax.jpg" group-title="Canais | HBO Max",HBO Max 6 HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/116089
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/680
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/679
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121602
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121606
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121610
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121614
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 5 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121615
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 HD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121618
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 6 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 SD
+http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121619
