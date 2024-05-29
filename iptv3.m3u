@@ -1,217 +1,580 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="C • Filmes & Séries",A&E HD
+http://acessopremium.site:80/218841369938/545251058006/239471
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="C • Filmes & Séries",A&E SD
+http://acessopremium.site:80/218841369938/545251058006/239472
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/547
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/546
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/552
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/551
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/557
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/556
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-name="AMC HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/amc.png" group-title="C • Filmes & Séries",AMC HD
+http://acessopremium.site:80/218841369938/545251058006/239474
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-name="AMC SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/amc.png" group-title="C • Filmes & Séries",AMC SD
+http://acessopremium.site:80/218841369938/545251058006/239475
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/613
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/612
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/618
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/617
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/623
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/622
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/628
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/627
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/633
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/632
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/587
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/586
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-name="AXN HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/axn1.png" group-title="C • Filmes & Séries",AXN HD
+http://acessopremium.site:80/218841369938/545251058006/239477
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-name="AXN SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/axn1.png" group-title="C • Filmes & Séries",AXN SD
+http://acessopremium.site:80/218841369938/545251058006/239478
 
+#EXTINF:-1 tvg-id="AE.br" tvg-name="Cinemax HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/cinemax.png" group-title="C • Filmes & Séries",Cinemax HD
+http://acessopremium.site:80/218841369938/545251058006/239480
+#EXTINF:-1 tvg-id="AE.br" tvg-name="Cinemax SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/cinemax.png" group-title="C • Filmes & Séries",Cinemax SD
+http://acessopremium.site:80/218841369938/545251058006/239481
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18764
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO +SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO +SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18766
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18756
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18758
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18760
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18762
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18752
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18754
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18772
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18774
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18780
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18782
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18768
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18770
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18776
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/18778
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-name="FX HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/fx.png" group-title="C • Filmes & Séries",FX HD
+http://acessopremium.site:80/218841369938/545251058006/239486
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-name="FX SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/fx.png" group-title="C • Filmes & Séries",FX SD
+http://acessopremium.site:80/218841369938/545251058006/239487
 
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/700
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/699
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/megapix.png" group-title="C • Filmes & Séries",Megapix HD
+http://acessopremium.site:80/218841369938/545251058006/239492
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/megapix.png" group-title="C • Filmes & Séries",Megapix SD
+http://acessopremium.site:80/218841369938/545251058006/239493
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/592
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/591
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-name="Paramount Network HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/paramount.png" group-title="C • Filmes & Séries",Paramount Network HD
+http://acessopremium.site:80/218841369938/545251058006/239495
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-name="Paramount Network SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/paramount.png" group-title="C • Filmes & Séries",Paramount Network SD
+http://acessopremium.site:80/218841369938/545251058006/239496
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/690
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/689
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-name="Sony Channel HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sonychannel.png" group-title="C • Filmes & Séries",Sony Channel HD
+http://acessopremium.site:80/218841369938/545251058006/239498
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-name="Sony Channel SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sonychannel.png" group-title="C • Filmes & Séries",Sony Channel SD
+http://acessopremium.site:80/218841369938/545251058006/239499
 
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/695
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/694
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-name="Space HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/space.png" group-title="C • Filmes & Séries",Space HD
+http://acessopremium.site:80/218841369938/545251058006/239501
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-name="Space SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/space.png" group-title="C • Filmes & Séries",Space SD
+http://acessopremium.site:80/218841369938/545251058006/239502
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/705
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/704
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-name="Studio Universal HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/studiouniversal1.png" group-title="C • Filmes & Séries",Studio Universal HD
+http://acessopremium.site:80/218841369938/545251058006/239510
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-name="Studio Universal SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/studiouniversal1.png" group-title="C • Filmes & Séries",Studio Universal SD
+http://acessopremium.site:80/218841369938/545251058006/239511
 
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/597
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/596
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-name="TCM HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tcm.png" group-title="C • Filmes & Séries",TCM HD
+http://acessopremium.site:80/218841369938/545251058006/239519
+#EXTINF:-1 tvg-id="TCMBrazil.br" tvg-name="TCM SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tcm.png" group-title="C • Filmes & Séries",TCM SD
+http://acessopremium.site:80/218841369938/545251058006/239520
 
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/711
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/710
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-name="TNT HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tnt.png" group-title="C • Filmes & Séries",TNT HD
+http://acessopremium.site:80/218841369938/545251058006/239522
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-name="TNT SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tnt.png" group-title="C • Filmes & Séries",TNT SD
+http://acessopremium.site:80/218841369938/545251058006/239523
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/731
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/730
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/736
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/735
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-name="TNT Séries HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tntseries.png" group-title="C • Filmes & Séries",TNT Séries HD
+http://acessopremium.site:80/218841369938/545251058006/239525
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-name="TNT Séries SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tntseries.png" group-title="C • Filmes & Séries",TNT Séries SD
+http://acessopremium.site:80/218841369938/545251058006/239526
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/592
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/591
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-name="Universal TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/universaltv.png" group-title="C • Filmes & Séries",Universal TV HD
+http://acessopremium.site:80/218841369938/545251058006/239530
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-name="Universal TV SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/universaltv.png" group-title="C • Filmes & Séries",Universal TV SD
+http://acessopremium.site:80/218841369938/545251058006/239531
 
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/746
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/745
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-name="Warner Channel HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/warner.png" group-title="C • Filmes & Séries",Warner Channel HD
+http://acessopremium.site:80/218841369938/545251058006/239533
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-name="Warner Channel SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/warner.png" group-title="C • Filmes & Séries",Warner Channel SD
+http://acessopremium.site:80/218841369938/545251058006/239534
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports HD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/3572
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="Canais | Esportes",BandSports SD
-http://rdns.tv:80/rogcpereira/tsn3ih5m/4504
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/animalplanet.png" group-title="C • Documentários",Animal Planet HD
+http://acessopremium.site:80/218841369938/545251058006/239584
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/animalplanet.png" group-title="C • Documentários",Animal Planet SD
+http://acessopremium.site:80/218841369938/545251058006/239585
 
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/238
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/237
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoverychannel.png" group-title="C • Documentários",Discovery Channel HD
+http://acessopremium.site:80/218841369938/545251058006/239587
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoverychannel.png" group-title="C • Documentários",Discovery Channel SD
+http://acessopremium.site:80/218841369938/545251058006/239588
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/371
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/370
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/heh.png" group-title="C • Documentários",Discovery H&H HD
+http://acessopremium.site:80/218841369938/545251058006/239590
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="Discovery H&H SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/heh.png" group-title="C • Documentários",Discovery H&H SD
+http://acessopremium.site:80/218841369938/545251058006/239591
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DISCOVERY KIDS HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/DISCOVERYKIDSHD/EXPORTACION_WEB/SS/DISCOVERYKIDSHDWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISCOVERY KIDS HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249208
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY CHANNEL" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/DISNEYHD/EXPORTACION_WEB/SS/DISNEYHDWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISNEY CHANNEL
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249204
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Canais | Latinos",LAT | DISNEY HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249205
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY JR" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIORWHORIZONTAL.jpg?size=290x163" group-title="Canais | Latinos",LAT | DISNEY JR
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249206
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Canais | Latinos",LAT | DISNEY JUNIOR
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/249207
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryscience.png" group-title="C • Documentários",Discovery Science HD
+http://acessopremium.site:80/218841369938/545251058006/239593
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryscience.png" group-title="C • Documentários",Discovery Science SD
+http://acessopremium.site:80/218841369938/545251058006/239594
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/356
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/355
+#EXTINF:-1 tvg-id="DiscoveryTheaterBrazil.br" tvg-name="Discovery Theather HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoverytheater.png" group-title="C • Documentários",Discovery Theather HD
+http://acessopremium.site:80/218841369938/545251058006/239596
+#EXTINF:-1 tvg-id="DiscoveryTheaterBrazil.br" tvg-name="Discovery Theather SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoverytheater.png" group-title="C • Documentários",Discovery Theather SD
+http://acessopremium.site:80/218841369938/545251058006/239597
 
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/351
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/350
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryturbo.png" group-title="C • Documentários",Discovery Turbo HD
+http://acessopremium.site:80/218841369938/545251058006/239599
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryturbo.png" group-title="C • Documentários",Discovery Turbo SD
+http://acessopremium.site:80/218841369938/545251058006/239600
 
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/472
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/471
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-name="Discovery World HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryworld.png" group-title="C • Documentários",Discovery World HD
+http://acessopremium.site:80/218841369938/545251058006/239602
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-name="Discovery World SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryworld.png" group-title="C • Documentários",Discovery World SD
+http://acessopremium.site:80/218841369938/545251058006/239603
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/664
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/663
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/history.png" group-title="C • Documentários",History HD
+http://acessopremium.site:80/218841369938/545251058006/239614
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/history.png" group-title="C • Documentários",History SD
+http://acessopremium.site:80/218841369938/545251058006/239615
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/669
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/668
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/natgeo.png" group-title="C • Documentários",National Geographic HD
+http://acessopremium.site:80/218841369938/545251058006/239621
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/natgeo.png" group-title="C • Documentários",National Geographic SD
+http://acessopremium.site:80/218841369938/545251058006/239622
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2600
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2599
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tlc.png" group-title="C • Documentários",TLC HD
+http://acessopremium.site:80/218841369938/545251058006/239624
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/tlc.png" group-title="C • Documentários",TLC SD
+http://acessopremium.site:80/218841369938/545251058006/239625
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/674
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/673
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2-1.png" group-title="C • HBO",HBO 2 HD
+http://acessopremium.site:80/218841369938/545251058006/239627
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2-1.png" group-title="C • HBO",HBO 2 SD
+http://acessopremium.site:80/218841369938/545251058006/239628
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Family HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbofamily-1.png" group-title="C • HBO",HBO Family HD
+http://acessopremium.site:80/218841369938/545251058006/239630
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Family SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbofamily-1.png" group-title="C • HBO",HBO Family SD
+http://acessopremium.site:80/218841369938/545251058006/239631
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="C • HBO",HBO HD
+http://acessopremium.site:80/218841369938/545251058006/239633
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Mundi HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomundi-1.png" group-title="C • HBO",HBO Mundi HD
+http://acessopremium.site:80/218841369938/545251058006/239635
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Mundi SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomundi-1.png" group-title="C • HBO",HBO Mundi SD
+http://acessopremium.site:80/218841369938/545251058006/239636
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Pop HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbopop-1.png" group-title="C • HBO",HBO Pop HD
+http://acessopremium.site:80/218841369938/545251058006/239638
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Pop SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbopop-1.png" group-title="C • HBO",HBO Pop SD
+http://acessopremium.site:80/218841369938/545251058006/239639
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="C • HBO",HBO SD
+http://acessopremium.site:80/218841369938/545251058006/239640
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Signature HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature-1.png" group-title="C • HBO",HBO Signature HD
+http://acessopremium.site:80/218841369938/545251058006/239642
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Signature SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature-1.png" group-title="C • HBO",HBO Signature SD
+http://acessopremium.site:80/218841369938/545251058006/239643
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Xtreme HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="C • HBO",HBO Xtreme HD
+http://acessopremium.site:80/218841369938/545251058006/239645
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO Xtreme SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="C • HBO",HBO Xtreme SD
+http://acessopremium.site:80/218841369938/545251058006/239646
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO+ HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="C • HBO",HBO+ HD
+http://acessopremium.site:80/218841369938/545251058006/239648
+#EXTINF:-1 tvg-id="AE.br" tvg-name="HBO+ SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="C • HBO",HBO+ SD
+http://acessopremium.site:80/218841369938/545251058006/239649
 
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2463
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/2462
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/bandsports.png" group-title="C • Esportes",Band Sports HD
+http://acessopremium.site:80/218841369938/545251058006/239669
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/bandsports.png" group-title="C • Esportes",Band Sports SD
+http://acessopremium.site:80/218841369938/545251058006/239670
+#EXTINF:-1 tvg-id="114" tvg-name="Combate HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/combate.png" group-title="C • Esportes",Combate HD
+http://acessopremium.site:80/218841369938/545251058006/239672
+#EXTINF:-1 tvg-id="114" tvg-name="Combate SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/combate.png" group-title="C • Esportes",Combate SD
+http://acessopremium.site:80/218841369938/545251058006/239673
 
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/700
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/699
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv2.png" group-title="C • SporTV",SporTV 2 HD
+http://acessopremium.site:80/218841369938/545251058006/239681
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv2.png" group-title="C • SporTV",SporTV 2 SD
+http://acessopremium.site:80/218841369938/545251058006/239682
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv3.png" group-title="C • SporTV",SporTV 3 HD
+http://acessopremium.site:80/218841369938/545251058006/239684
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv3.png" group-title="C • SporTV",SporTV 3 SD
+http://acessopremium.site:80/218841369938/545251058006/239685
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv.png" group-title="C • SporTV",SporTV HD
+http://acessopremium.site:80/218841369938/545251058006/239690
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/sportv.png" group-title="C • SporTV",SporTV SD
+http://acessopremium.site:80/218841369938/545251058006/239692
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/680
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/679
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 2 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121602
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 3 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121606
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 4 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121610
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121614
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 5 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 5 SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121615
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 HD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121618
-#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO Max 6 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 6 SD
-http://playon.cdnsucuri.click:80/378519650/Q860n7510a/121619
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/bis.png" group-title="C • Variedades",BIS HD
+http://acessopremium.site:80/218841369938/545251058006/240226
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/bis.png" group-title="C • Variedades",BIS SD
+http://acessopremium.site:80/218841369938/545251058006/240227
+
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="Comedy Central HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/comedycentral.png" group-title="C • Variedades",Comedy Central HD
+http://acessopremium.site:80/218841369938/545251058006/240256
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="Comedy Central SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/comedycentral.png" group-title="C • Variedades",Comedy Central SD
+http://acessopremium.site:80/218841369938/545251058006/240257
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/multishow1.png" group-title="C • Variedades",Multishow HD
+http://acessopremium.site:80/218841369938/545251058006/240289
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/multishow1.png" group-title="C • Variedades",Multishow SD
+http://acessopremium.site:80/218841369938/545251058006/240290
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/paramountplus.png" group-title="C • Esporte PPV",Paramount+ 2 HD
+http://acessopremium.site:80/218841369938/545251058006/240323
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/paramountplus.png" group-title="C • Esporte PPV",Paramount+ 3 HD
+http://acessopremium.site:80/218841369938/545251058006/240324
+
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 2 HD
+http://acessopremium.site:80/218841369938/545251058006/240327
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 2 SD
+http://acessopremium.site:80/218841369938/545251058006/240328
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 3 HD
+http://acessopremium.site:80/218841369938/545251058006/240330
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 3 SD
+http://acessopremium.site:80/218841369938/545251058006/240331
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 4 HD
+http://acessopremium.site:80/218841369938/545251058006/240332
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 5 HD
+http://acessopremium.site:80/218841369938/545251058006/240334
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 5 SD
+http://acessopremium.site:80/218841369938/545251058006/240335
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 6 HD
+http://acessopremium.site:80/218841369938/545251058006/240336
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiere1.png" group-title="C • Premiere Clubes",Premiere 7 HD
+http://acessopremium.site:80/218841369938/545251058006/240337
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiereclubes.png" group-title="C • Premiere Clubes",Premiere Clubes HD
+http://acessopremium.site:80/218841369938/545251058006/240339
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/premiereclubes.png" group-title="C • Premiere Clubes",Premiere Clubes SD
+http://acessopremium.site:80/218841369938/545251058006/240340
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecineaction.png" group-title="C • Telecine",Telecine Action HD
+http://acessopremium.site:80/218841369938/545251058006/240342
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecineaction.png" group-title="C • Telecine",Telecine Action SD
+http://acessopremium.site:80/218841369938/545251058006/240343
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinecult.png" group-title="C • Telecine",Telecine Cult HD
+http://acessopremium.site:80/218841369938/545251058006/240345
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinecult.png" group-title="C • Telecine",Telecine Cult SD
+http://acessopremium.site:80/218841369938/545251058006/240346
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinefun.png" group-title="C • Telecine",Telecine Fun HD
+http://acessopremium.site:80/218841369938/545251058006/240348
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinefun.png" group-title="C • Telecine",Telecine Fun SD
+http://acessopremium.site:80/218841369938/545251058006/240349
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="C • Telecine",Telecine Pipoca HD
+http://acessopremium.site:80/218841369938/545251058006/240351
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="C • Telecine",Telecine Pipoca SD
+http://acessopremium.site:80/218841369938/545251058006/240352
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinepremium.png" group-title="C • Telecine",Telecine Premium HD
+http://acessopremium.site:80/218841369938/545251058006/240354
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinepremium.png" group-title="C • Telecine",Telecine Premium SD
+http://acessopremium.site:80/218841369938/545251058006/240355
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="C • Telecine",Telecine Touch HD
+http://acessopremium.site:80/218841369938/545251058006/240357
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="C • Telecine",Telecine Touch SD
+http://acessopremium.site:80/218841369938/545251058006/240358
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 5 HD
+http://acessopremium.site:80/218841369938/545251058006/401607
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 6 HD
+http://acessopremium.site:80/218841369938/545251058006/401608
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/ufcfightpass.png" group-title="C • Esporte PPV",UFC Fight Pass HD
+http://acessopremium.site:80/218841369938/545251058006/448445
+
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 1 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/primevideo.png" group-title="C • Esporte PPV",Amazon Prime Video 1 HD
+http://acessopremium.site:80/218841369938/545251058006/758602
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/primevideo.png" group-title="C • Esporte PPV",Amazon Prime Video 2 HD
+http://acessopremium.site:80/218841369938/545251058006/758603
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/primevideo.png" group-title="C • Esporte PPV",Amazon Prime Video 3 HD
+http://acessopremium.site:80/218841369938/545251058006/758604
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/primevideo.png" group-title="C • Esporte PPV",Amazon Prime Video 4 HD
+http://acessopremium.site:80/218841369938/545251058006/758605
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 3 HD
+http://acessopremium.site:80/218841369938/545251058006/758606
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 4 HD
+http://acessopremium.site:80/218841369938/545251058006/758607
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 1 HD
+http://acessopremium.site:80/218841369938/545251058006/758629
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • Esporte PPV",HBO MAX 2 HD
+http://acessopremium.site:80/218841369938/545251058006/758630
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Adrenalina Freezone
+http://acessopremium.site:80/218841369938/545251058006/1087870
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="C • Pluto TV",Pluto TV Anime
+http://acessopremium.site:80/218841369938/545251058006/1087871
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-name="Pluto TV Anime Ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Anime Ação
+http://acessopremium.site:80/218841369938/545251058006/1087872
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-name="Pluto TV Canal UOL" tvg-logo="https://images.pluto.tv/channels/6238c63deec07b000723dd77/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Canal UOL
+http://acessopremium.site:80/218841369938/545251058006/1087873
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Clássicos
+http://acessopremium.site:80/218841369938/545251058006/1087874
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Comédia
+http://acessopremium.site:80/218841369938/545251058006/1087875
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Comédia Romântica
+http://acessopremium.site:80/218841369938/545251058006/1087876
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Drama
+http://acessopremium.site:80/218841369938/545251058006/1087877
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Família
+http://acessopremium.site:80/218841369938/545251058006/1087878
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Romance
+http://acessopremium.site:80/218841369938/545251058006/1087879
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Sucessos
+http://acessopremium.site:80/218841369938/545251058006/1087880
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Cine Terror
+http://acessopremium.site:80/218841369938/545251058006/1087881
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-name="Pluto TV Comédia" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Comédia
+http://acessopremium.site:80/218841369938/545251058006/1087882
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-name="Pluto TV Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Documentários
+http://acessopremium.site:80/218841369938/545251058006/1087883
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Esportes
+http://acessopremium.site:80/218841369938/545251058006/1087884
+#EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Estilo de Vida
+http://acessopremium.site:80/218841369938/545251058006/1087885
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fashionbox" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Fashionbox
+http://acessopremium.site:80/218841369938/545251058006/1087886
+#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-name="Pluto TV Fashionstream" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Fashionstream
+http://acessopremium.site:80/218841369938/545251058006/1087887
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="Pluto TV Ficção Científica" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Ficção Científica
+http://acessopremium.site:80/218841369938/545251058006/1087888
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Pluto TV Filmelier" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Filmelier
+http://acessopremium.site:80/218841369938/545251058006/1087889
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Filmes Ação
+http://acessopremium.site:80/218841369938/545251058006/1087890
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Filmes Nacionais
+http://acessopremium.site:80/218841369938/545251058006/1087891
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fitness" tvg-logo="https://images.pluto.tv/channels/630e30ba3583440007c64a20/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Fitness
+http://acessopremium.site:80/218841369938/545251058006/1087892
+#EXTINF:-1 tvg-id="64c815e8a1c6130008fef928" tvg-name="Pluto TV Gaming por Ubisoft" tvg-logo="https://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Gaming por Ubisoft
+http://acessopremium.site:80/218841369938/545251058006/1087893
+#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-name="Pluto TV Geek e Tech" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Geek e Tech
+http://acessopremium.site:80/218841369938/545251058006/1087894
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Investigação
+http://acessopremium.site:80/218841369938/545251058006/1087895
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Junior
+http://acessopremium.site:80/218841369938/545251058006/1087896
+#EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Karaokê por Stingray
+http://acessopremium.site:80/218841369938/545251058006/1087897
+#EXTINF:-1 tvg-id="633ee9ba83c08f00076b60a6" tvg-name="Pluto TV KFOOD" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV KFOOD
+http://acessopremium.site:80/218841369938/545251058006/1087898
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Kids
+http://acessopremium.site:80/218841369938/545251058006/1087899
+#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-name="Pluto TV Minha Obsessão Favorita" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Minha Obsessão Favorita
+http://acessopremium.site:80/218841369938/545251058006/1087900
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-name="Pluto TV Mistérios" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Mistérios
+http://acessopremium.site:80/218841369938/545251058006/1087901
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Natureza
+http://acessopremium.site:80/218841369938/545251058006/1087902
+#EXTINF:-1 tvg-id="604a8dedbca75b0007b1c753" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Paisagens por Stingray
+http://acessopremium.site:80/218841369938/545251058006/1087903
+#EXTINF:-1 tvg-id="62cd9e5a5c38c00007f5669a" tvg-name="Pluto TV Quebrando o Tabu" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Quebrando o Tabu
+http://acessopremium.site:80/218841369938/545251058006/1087904
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Record News
+http://acessopremium.site:80/218841369938/545251058006/1087905
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-name="Pluto TV Retrô (720p)" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Retrô (720p)
+http://acessopremium.site:80/218841369938/545251058006/1087906
+#EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-name="Pluto TV Shows por Stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Shows por Stingray
+http://acessopremium.site:80/218841369938/545251058006/1087907
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Séries
+http://acessopremium.site:80/218841369938/545251058006/1087908
+#EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-name="Pluto TV Séries Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Séries Sci-Fi
+http://acessopremium.site:80/218841369938/545251058006/1087909
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Turbo
+http://acessopremium.site:80/218841369938/545251058006/1087910
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="C • Pluto TV",Pluto TV Vida Real
+http://acessopremium.site:80/218841369938/545251058006/1087911
+
+#EXTINF:-1 tvg-id="" tvg-name="PT • Discovery Channel HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Discovery Channel HD
+http://acessopremium.site:80/218841369938/545251058006/1092743
+#EXTINF:-1 tvg-id="" tvg-name="PT • Discovery Channel SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Discovery Channel SD
+http://acessopremium.site:80/218841369938/545251058006/1092744
+#EXTINF:-1 tvg-id="" tvg-name="PT • Disney Channel HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Disney Channel HD
+http://acessopremium.site:80/218841369938/545251058006/1092746
+#EXTINF:-1 tvg-id="" tvg-name="PT • Disney Channel SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Disney Channel SD
+http://acessopremium.site:80/218841369938/545251058006/1092747
+#EXTINF:-1 tvg-id="" tvg-name="PT • Disney Junior HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Disney Junior HD
+http://acessopremium.site:80/218841369938/545251058006/1092749
+#EXTINF:-1 tvg-id="" tvg-name="PT • Disney Junior SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Disney Junior SD
+http://acessopremium.site:80/218841369938/545251058006/1092750
+
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Comedy HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Comedy HD
+http://acessopremium.site:80/218841369938/545251058006/1092761
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Comedy SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Comedy SD
+http://acessopremium.site:80/218841369938/545251058006/1092762
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Crime HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Crime HD
+http://acessopremium.site:80/218841369938/545251058006/1092764
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Crime SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Crime SD
+http://acessopremium.site:80/218841369938/545251058006/1092765
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX HD
+http://acessopremium.site:80/218841369938/545251058006/1092767
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Life HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Life HD
+http://acessopremium.site:80/218841369938/545251058006/1092769
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Life SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Life SD
+http://acessopremium.site:80/218841369938/545251058006/1092770
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Movies HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Movies HD
+http://acessopremium.site:80/218841369938/545251058006/1092772
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX Movies SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX Movies SD
+http://acessopremium.site:80/218841369938/545251058006/1092773
+#EXTINF:-1 tvg-id="" tvg-name="PT • FOX SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • FOX SD
+http://acessopremium.site:80/218841369938/545251058006/1092774
+
+#EXTINF:-1 tvg-id="" tvg-name="PT • Nickelodeon HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/pt.png" group-title="C • Portugal",PT • Nickelodeon HD
+http://acessopremium.site:80/218841369938/545251058006/1092809
+
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN HD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/757.png" group-title="C • ESPN",BR • ESPN HD
+http://acessopremium.site:80/218841369938/545251058006/1627714
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/758.png" group-title="C • ESPN",BR • ESPN SD
+http://acessopremium.site:80/218841369938/545251058006/1627715
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 2 HD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/760.png" group-title="C • ESPN",BR • ESPN 2 HD
+http://acessopremium.site:80/218841369938/545251058006/1627717
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 2 SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/761.png" group-title="C • ESPN",BR • ESPN 2 SD
+http://acessopremium.site:80/218841369938/545251058006/1627718
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 3 HD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/763.png" group-title="C • ESPN",BR • ESPN 3 HD
+http://acessopremium.site:80/218841369938/545251058006/1627720
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 3 SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/764.png" group-title="C • ESPN",BR • ESPN 3 SD
+http://acessopremium.site:80/218841369938/545251058006/1627721
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 4 HD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/766.png" group-title="C • ESPN",BR • ESPN 4 HD
+http://acessopremium.site:80/218841369938/545251058006/1627723
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 4 SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/767.png" group-title="C • ESPN",BR • ESPN 4 SD
+http://acessopremium.site:80/218841369938/545251058006/1627724
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 5 HD" tvg-logo="http://cdn.fontedecanais.live/portal/misc/logos/240/679.png" group-title="C • ESPN",BR • ESPN 5 HD
+http://acessopremium.site:80/218841369938/545251058006/1627726
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 5 SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/680.png" group-title="C • ESPN",BR • ESPN 5 SD
+http://acessopremium.site:80/218841369938/545251058006/1627727
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 6 HD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/769.png" group-title="C • ESPN",BR • ESPN 6 HD
+http://acessopremium.site:80/218841369938/545251058006/1627729
+#EXTINF:-1 tvg-id="" tvg-name="BR • ESPN 6 SD" tvg-logo="http://cdn.fontedecanais.pro/portal/misc/logos/240/770.png" group-title="C • ESPN",BR • ESPN 6 SD
+http://acessopremium.site:80/218841369938/545251058006/1627730
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swin FHD" tvg-logo="http://meuplayer.tv.br/lgs_btv/adultswin.png" group-title="C • Infantil",Adult Swin FHD
+http://acessopremium.site:80/218841369938/545251058006/1805944
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swin HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/adultswin.png" group-title="C • Infantil",Adult Swin HD
+http://acessopremium.site:80/218841369938/545251058006/1805945
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swin SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/adultswin.png" group-title="C • Infantil",Adult Swin SD
+http://acessopremium.site:80/218841369938/545251058006/1805946
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/cartoonnetwork.png" group-title="C • Infantil",Cartoon Network HD
+http://acessopremium.site:80/218841369938/545251058006/1805953
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/cartoonnetwork.png" group-title="C • Infantil",Cartoon Network SD
+http://acessopremium.site:80/218841369938/545251058006/1805954
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/discoverykids.png" group-title="C • Infantil",Discovery Kids HD
+http://acessopremium.site:80/218841369938/545251058006/1805956
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/discoverykids.png" group-title="C • Infantil",Discovery Kids SD
+http://acessopremium.site:80/218841369938/545251058006/1805957
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="C • Infantil",Disney Channel HD
+http://acessopremium.site:80/218841369938/545251058006/1805959
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="C • Infantil",Disney Channel SD
+http://acessopremium.site:80/218841369938/545251058006/1805960
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/nick.png" group-title="C • Infantil",Nick HD
+http://acessopremium.site:80/218841369938/545251058006/1805968
+#EXTINF:-1 tvg-id="" tvg-name="Nick SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/nick.png" group-title="C • Infantil",Nick SD
+http://acessopremium.site:80/218841369938/545251058006/1805969
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/nickjr.png" group-title="C • Infantil",Nick Jr HD
+http://acessopremium.site:80/218841369938/545251058006/1805971
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/nickjr.png" group-title="C • Infantil",Nick Jr SD
+http://acessopremium.site:80/218841369938/545251058006/1805972
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://meuplayer.tv.br/lgs_btv/tooncast.png" group-title="C • Infantil",Tooncast HD
+http://acessopremium.site:80/218841369938/545251058006/1805974
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="http://meuplayer.tv.br/lgs_btv/tooncast.png" group-title="C • Infantil",Tooncast SD
+http://acessopremium.site:80/218841369938/545251058006/1805975
+
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Live Cams
+http://acessopremium.site:80/218841369938/545251058006/1255949
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",MILF
+http://acessopremium.site:80/218841369938/545251058006/1255950
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Big Dick
+http://acessopremium.site:80/218841369938/545251058006/1255951
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Big Tits
+http://acessopremium.site:80/218841369938/545251058006/1255952
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Fetish
+http://acessopremium.site:80/218841369938/545251058006/1255953
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Pornstar
+http://acessopremium.site:80/218841369938/545251058006/1255954
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Big Ass
+http://acessopremium.site:80/218841369938/545251058006/1255955
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Interracial
+http://acessopremium.site:80/218841369938/545251058006/1255956
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Latina
+http://acessopremium.site:80/218841369938/545251058006/1255957
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",POV
+http://acessopremium.site:80/218841369938/545251058006/1255958
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Blowjob
+http://acessopremium.site:80/218841369938/545251058006/1255959
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Teen
+http://acessopremium.site:80/218841369938/545251058006/1255960
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Hardcore
+http://acessopremium.site:80/218841369938/545251058006/1255961
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Cuckold
+http://acessopremium.site:80/218841369938/545251058006/1255962
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Threesome
+http://acessopremium.site:80/218841369938/545251058006/1255963
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Russian
+http://acessopremium.site:80/218841369938/545251058006/1255964
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Lesbian
+http://acessopremium.site:80/218841369938/545251058006/1255965
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Rough
+http://acessopremium.site:80/218841369938/545251058006/1255966
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Gangbang
+http://acessopremium.site:80/218841369938/545251058006/1255967
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Anal
+http://acessopremium.site:80/218841369938/545251058006/1255968
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Compilation
+http://acessopremium.site:80/218841369938/545251058006/1255969
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Brunette
+http://acessopremium.site:80/218841369938/545251058006/1255970
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Blonde
+http://acessopremium.site:80/218841369938/545251058006/1255971
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-logo="https://i.imgur.com/YU6m3E9.png" group-title="C • LiveCam +18",Asian
+http://acessopremium.site:80/218841369938/545251058006/1255973
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Babes TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Babes TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381901
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Barely Legal TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Barely Legal TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381902
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Blue Hustler HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Blue Hustler HD
+http://acessopremium.site:80/218841369938/545251058006/1381903
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Brazzers TV Europe HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Brazzers TV Europe HD
+http://acessopremium.site:80/218841369938/545251058006/1381904
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Dorcel TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Dorcel TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381905
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Erox TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Erox TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381906
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Extasy TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Extasy TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381907
+#EXTINF:-1 tvg-id="" tvg-name="XXX • EXXXotica TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • EXXXotica TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381908
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV 2 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV 2 HD
+http://acessopremium.site:80/218841369938/545251058006/1381909
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV 3 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV 3 HD
+http://acessopremium.site:80/218841369938/545251058006/1381910
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV 4 HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV 4 HD
+http://acessopremium.site:80/218841369938/545251058006/1381911
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV Anal HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV Anal HD
+http://acessopremium.site:80/218841369938/545251058006/1381912
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV BBW HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV BBW HD
+http://acessopremium.site:80/218841369938/545251058006/1381913
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV Compilation HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV Compilation HD
+http://acessopremium.site:80/218841369938/545251058006/1381914
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV Lesbian HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV Lesbian HD
+http://acessopremium.site:80/218841369938/545251058006/1381915
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV Parody HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV Parody HD
+http://acessopremium.site:80/218841369938/545251058006/1381916
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Fap TV Teens HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Fap TV Teens HD
+http://acessopremium.site:80/218841369938/545251058006/1381917
+#EXTINF:-1 tvg-id="" tvg-name="XXX • French Lover TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • French Lover TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381918
+#EXTINF:-1 tvg-id="" tvg-name="XXX • KinoXXX TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • KinoXXX TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381919
+#EXTINF:-1 tvg-id="" tvg-name="XXX • O La La HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • O La La HD
+http://acessopremium.site:80/218841369938/545251058006/1381920
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Penthouse Gold HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Penthouse Gold HD
+http://acessopremium.site:80/218841369938/545251058006/1381921
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Penthouse Quickies HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Penthouse Quickies HD
+http://acessopremium.site:80/218841369938/545251058006/1381922
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Playboy TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Playboy TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381924
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Playboy TV SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Playboy TV SD
+http://acessopremium.site:80/218841369938/545251058006/1381925
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Private TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Private TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381926
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Red Lips HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Red Lips HD
+http://acessopremium.site:80/218841369938/545251058006/1381927
+#EXTINF:-1 tvg-id="" tvg-name="XXX • RedLight HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • RedLight HD
+http://acessopremium.site:80/218841369938/545251058006/1381928
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Sextreme HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Sextreme HD
+http://acessopremium.site:80/218841369938/545251058006/1381930
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Sextreme SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Sextreme SD
+http://acessopremium.site:80/218841369938/545251058006/138193
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Sexy Hot HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Sexy Hot HD
+http://acessopremium.site:80/218841369938/545251058006/1381933
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Sexy Hot SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Sexy Hot SD
+http://acessopremium.site:80/218841369938/545251058006/1381934
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Venus HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Venus HD
+http://acessopremium.site:80/218841369938/545251058006/1381936
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Venus SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Venus SD
+http://acessopremium.site:80/218841369938/545251058006/1381937
+#EXTINF:-1 tvg-id="" tvg-name="XXX • Vivid Red HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • Vivid Red HD
+http://acessopremium.site:80/218841369938/545251058006/1381938
+#EXTINF:-1 tvg-id="" tvg-name="XXX • XXL TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • XXL TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381939
+#EXTINF:-1 tvg-id="" tvg-name="XXX • XY Max TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • XY Max TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381940
+#EXTINF:-1 tvg-id="" tvg-name="XXX • XY Mix TV HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • XY Mix TV HD
+http://acessopremium.site:80/218841369938/545251058006/1381941
+#EXTINF:-1 tvg-id="" tvg-name="XXX • XY Plus HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • XY Plus HD
+http://acessopremium.site:80/218841369938/545251058006/1381942
+#EXTINF:-1 tvg-id="" tvg-name="XXX • ОХ АХ HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/canaladulto.png" group-title="C • Adultos +18",XXX • ОХ АХ HD
+http://acessopremium.site:80/218841369938/545251058006/1381943
