@@ -1,8 +1,9 @@
-# README #
-intuito da conta será para repositórios, testes e implementações de ferramentas
+# IPTV #
+Intuito da conta será para repositórios, testes e implementações de ferramentas
 
-chave pix caso queira contribuir com desenvolvedor: ba2f2955-10a5-40c2-a4a6-a267a7cec0ef
-
-# chave aleatória.
-
-nome: Sharllan P.
+chave pix caso queira contribuir:
+```bash
+sharllans2@gmail.com
+```
+### Nome: Sharllan Paulino.
+### Picpay.
