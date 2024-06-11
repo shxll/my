@@ -4,7 +4,7 @@ Intuito da conta será para repositórios, testes e implementações de ferramen
 # Uso link IPTV
 ```bash
 https://raw.githubusercontent.com/shxll/my/main/iptv3.m3u
->> link para uso do arquivo playlist de canais
+# link para uso do arquivo playlist de canais
 ```
 
 # Redes Sociais
