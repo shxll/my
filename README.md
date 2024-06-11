@@ -1,6 +1,11 @@
 # IPTV #
 Intuito da conta será para repositórios, testes e implementações de ferramentas
 
+# Uso link IPTV
+```bash
+https://raw.githubusercontent.com/shxll/my/main/iptv3.m3u
+> link para uso do arquivo playlist de canais
+```
 
 # Redes Sociais
 [Facebook](https://www.facebook.com/Shall777)
