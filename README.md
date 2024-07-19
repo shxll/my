@@ -1,6 +1,9 @@
 # IPTV #
 Intuito da conta será para repositórios, testes e implementações de ferramentas
 
+# DNS - IPTV
+Configure um DNS para desbloquear o IPTV = 66.90.70.64
+
 # Uso link IPTV
 ```bash
 https://raw.githubusercontent.com/shxll/my/main/iptv3.m3u
